@@ -1,4 +1,0 @@
-#!/bin/bash
-
-echo "*******" 
-gzexe 1.sh
